@@ -6,3 +6,12 @@ This is based on prof. W. Oquendo's course on Programming and introduction to nu
 
 ## 1 Introduction
 Types of variables in c++ and python, reading and writing information from and to screen or files.
+## 2 Functions
+Basic declaration, implementation and usage of functions
+## 3 Root Finding
+Four methods to find roots of any function:
+* Bisection
+* Regula-Falsi
+* Fixed point
+* Newton
+
