@@ -15,3 +15,8 @@ Four methods to find roots of any function:
 * Fixed point
 * Newton
 
+## 4 Numerical Derivatives
+Three common and simple algorithms to find numerical derivatives:
+* Forward derivative
+* Central derivative
+* Richardson for central and forward derivatives.
