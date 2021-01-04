@@ -19,4 +19,10 @@ Four methods to find roots of any function:
 Three common and simple algorithms to find numerical derivatives:
 * Forward derivative
 * Central derivative
-* Richardson for central and forward derivatives.
+* Richardson extrapolation for central and forward derivatives.
+
+## 5 Numerical Integration
+Three common algorithms to find numerical integrals:
+* Trapezoidal rule
+* Simpson rule
+* Richardson extrapolation for trapezoidal rule.
