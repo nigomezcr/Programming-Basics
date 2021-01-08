@@ -26,3 +26,6 @@ Three common algorithms to find numerical integrals:
 * Trapezoidal rule
 * Simpson rule
 * Richardson extrapolation for trapezoidal rule.
+
+## 6 Arrays 
+Declaration and use of arrays, vectors and matrices.
