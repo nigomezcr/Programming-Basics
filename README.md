@@ -29,3 +29,11 @@ Three common algorithms to find numerical integrals:
 
 ## 6 Arrays 
 Declaration and use of arrays, vectors and matrices.
+
+## 7 Pointers and Dynamic Memory
+
+*Declaration of pointers to variables.
+*Pointers and arrays
+*Dynamic memory with _new_ and _delete_
+*Dynamic memory with vectors 
+
