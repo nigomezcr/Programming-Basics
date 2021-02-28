@@ -32,8 +32,12 @@ Declaration and use of arrays, vectors and matrices.
 
 ## 7 Pointers and Dynamic Memory
 
-*Declaration of pointers to variables.
-*Pointers and arrays
-*Dynamic memory with _new_ and _delete_
-*Dynamic memory with vectors 
+* Declaration of pointers to variables.
+* Pointers and arrays
+* Dynamic memory with _new_ and _delete_
+* Dynamic memory with vectors 
 
+## 8 Data structures 
+
+* In c++: Lists and maps
+* In Python: Lists, tuples, sets and maps
