@@ -41,3 +41,6 @@ Declaration and use of arrays, vectors and matrices.
 
 * In c++: Lists and maps
 * In Python: Lists, tuples, sets and maps
+
+## 9 Introduction to Object Oriented Programming
+Structures and classes in c++ and classes in python.
