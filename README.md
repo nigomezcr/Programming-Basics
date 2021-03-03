@@ -44,3 +44,6 @@ Declaration and use of arrays, vectors and matrices.
 
 ## 9 Introduction to Object Oriented Programming
 Structures and classes in c++ and classes in python.
+
+## 10 Introduction to Mathematica
+Stephen Wolfram's book _An Elementary Introduction to the Wolfram Language_, in the from of Mathematica notebooks, with exercises.
