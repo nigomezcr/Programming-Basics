@@ -27,7 +27,7 @@ Three common algorithms to find numerical integrals:
 * Simpson rule
 * Richardson extrapolation for trapezoidal rule.
 
-## 6 Arrays 
+## 6 Arrays
 Declaration and use of arrays, vectors and matrices.
 
 ## 7 Pointers and Dynamic Memory
@@ -35,9 +35,9 @@ Declaration and use of arrays, vectors and matrices.
 * Declaration of pointers to variables.
 * Pointers and arrays
 * Dynamic memory with _new_ and _delete_
-* Dynamic memory with vectors 
+* Dynamic memory with vectors
 
-## 8 Data structures 
+## 8 Data structures
 
 * In c++: Lists and maps
 * In Python: Lists, tuples, sets and maps
@@ -47,3 +47,9 @@ Structures and classes in c++ and classes in python.
 
 ## 10 Introduction to Mathematica
 Stephen Wolfram's book _An Elementary Introduction to the Wolfram Language_, in the from of Mathematica notebooks, with exercises.
+
+## 11 Plots
+Generating plots from different sources: GeoGebra, Excel (or ODS), gnuplot, python and Mathematica.
+
+## 12 Libaries
+Use of scientific libraries in c++ and Python: Boost and SciPy.
